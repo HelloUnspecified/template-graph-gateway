@@ -43,4 +43,5 @@ jspm_packages/
 .env
 
 __build__/
+__testCoverage__/
 .DS_Store
