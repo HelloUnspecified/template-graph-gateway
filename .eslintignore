@@ -1,0 +1,5 @@
+/src/datasources/advisor_db/migrations/**
+/src/datasources/advisor_db/seeders/**
+
+*test.js
+*.tests.js
