@@ -66,7 +66,6 @@ const apiHandler = async (req, res) => {
  * http middleware function that follows adhering to express's middleware.
  * Last item in the middleware chain.
  * This is your api handler for your serverless function
- 
  *
  */
 export const graphEndpoint = api
