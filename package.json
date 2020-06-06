@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "@apollo/gateway": "^0.10.7",
-    "apollo-server-cloud-functions": "^2.9.6",
+    "apollo-server-cloud-functions": "^2.14.2",
     "connect": "^3.7.0",
     "dotenv": "^8.2.0",
     "graphql": "^14.5.8",
